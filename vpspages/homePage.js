@@ -4,9 +4,6 @@ class homePage{
 
     }
     greet(){
-        console.log("Welocome to the HomePage");
-    }
-    sound(){
         
     }
 }
